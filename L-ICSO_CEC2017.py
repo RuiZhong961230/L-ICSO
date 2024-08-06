@@ -6,7 +6,7 @@ from copy import deepcopy
 
 
 DimSize = 100
-PopSizeMax = 400
+PopSizeMax = 600
 PopSizeMin = 6
 PopSize = PopSizeMax
 LB = [-100] * DimSize
